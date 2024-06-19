@@ -1,1 +1,2 @@
 today is wednesday. learning git
+adding new line for second commit
